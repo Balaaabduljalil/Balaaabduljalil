@@ -10,7 +10,7 @@ Enthusiastic AI and Machine Learnung Engineer, well-trained at conducting NLP re
 * ✉️  You can contact me at [ballaabduljalil@gmail.com](mailto:ballaabduljalil@gmail.com)
 * 🧠  I'm learning Machine Learning, Deep Learning with specialization in NLP.
 * 🤝  I'm open to collaborating on NLP research.
-*  📝  I blog on [medium](https://medium.com/@ballaabduljalil). Below are some of my top blog post:
+* 📝  I blog on [medium](https://medium.com/@ballaabduljalil). Below are some of my top blog post:
   *   [My Data Science journey with Arewa Data Science Academy.](https://medium.com/@ballaabduljalil/my-data-science-journey-with-arewa-data-science-academy-9988612e8d9a).
   *  [Leveraging Time Series Analysing For Stock Market.](https://medium.com/@ballaabduljalil/leveraging-time-series-analysis-for-stock-market-54eeb5ef29de).
   *  [The Science Of Natural Language Processing.](https://medium.com/@ballaabduljalil/the-science-of-natural-language-processing-42496b8034ed).
