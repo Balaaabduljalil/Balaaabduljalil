@@ -10,7 +10,8 @@ Enthusiastic AI and Machine Learnung Engineer, well-trained at conducting NLP re
 * ✉️  You can contact me at [ballaabduljalil@gmail.com](mailto:ballaabduljalil@gmail.com)
 * 🧠  I'm learning Machine Learning, Deep Learning with specialization in NLP.
 * 🤝  I'm open to collaborating on NLP research.
-
+*  📝  I blog on [medium](https://ballaabduljalil.medium.com/)
+* ⚡  I enjoy watching football and research at my free time
 <a href="https://www.github.com/Balaaabduljalil" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Balaaabduljalil?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
