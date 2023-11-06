@@ -8,7 +8,7 @@ Enthusiastic AI and Machine Learnung Engineer, well-trained at conducting NLP re
 
 * 🌍  I'm based in Abuja, Nigeria
 * ✉️  You can contact me at [ballaabduljalil@gmail.com](mailto:ballaabduljalil@gmail.com)
-* 🧠  I'm learning Machine Learning, Deep Learning with specialization in NLP.
+* 🧠  I'm currently learning Deep Learning with pytorch and web3 with ArewaDS and metaschool respectively.
 * 🤝  I'm open to collaborating on NLP research.
 * 📝  I blog on [medium](https://medium.com/@ballaabduljalil). Below are some of my top blog post:
   *   [My Data Science Journey with Arewa Data Science Academy](https://medium.com/@ballaabduljalil/my-data-science-journey-with-arewa-data-science-academy-9988612e8d9a).
